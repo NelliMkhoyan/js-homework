@@ -11,3 +11,5 @@ for(const word of reverse) {
     console.log(word)
 }
 console.log([...reverse])
+
+

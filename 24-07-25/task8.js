@@ -19,3 +19,4 @@ function range (start, end, step = 1) {
 for(const num of range(5,15,2)) {
     console.log(num);
 }
+
